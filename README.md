@@ -25,7 +25,7 @@
 
 This is a simple API rest in MVC made with TypeScript.
 
-Is this project, I made a Login System with Register, Authenticate and Edit Profile.
+In this project, I made a Login System with Register, Authenticate and Edit Profile.
 
 Also, I'm using Json Web Token (JWT) to encrypt the user object and use it to verify if user is authenticated.
 
